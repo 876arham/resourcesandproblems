@@ -1,0 +1,1 @@
+This folder will contain the resources shared in the community groups.
