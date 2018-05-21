@@ -4,8 +4,7 @@
 
 >CodeZoned is an online community of computer science and mathematics enthusiasts.
 #
-#
-#
+
 
 
 >In this repository you'll find lots of good puzzles, computer science and mathematics problems that was previously asked in CodeZoned Trivia.
